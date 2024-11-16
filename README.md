@@ -1,3 +1,3 @@
-<h1 align = "center">👋 Hi, I’m flex-ux
+<h1 align = "center">👋 Hi, I’m FLEX-UX
 
 
